@@ -1,0 +1,5 @@
+tuos_ros/tuos_simulations
+/home/student/catkin_ws/devel/.private/tuos_simulations/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/tuos_simulations/lib/pkgconfig/tuos_simulations.pc /home/student/catkin_ws/devel/lib/pkgconfig/tuos_simulations.pc
+/home/student/catkin_ws/devel/.private/tuos_simulations/share/tuos_simulations/cmake/tuos_simulationsConfig-version.cmake /home/student/catkin_ws/devel/share/tuos_simulations/cmake/tuos_simulationsConfig-version.cmake
+/home/student/catkin_ws/devel/.private/tuos_simulations/share/tuos_simulations/cmake/tuos_simulationsConfig.cmake /home/student/catkin_ws/devel/share/tuos_simulations/cmake/tuos_simulationsConfig.cmake

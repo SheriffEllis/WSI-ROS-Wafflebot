@@ -1,0 +1,5 @@
+tuos_ros/tuos_examples
+/home/student/catkin_ws/devel/.private/tuos_examples/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/tuos_examples/lib/pkgconfig/tuos_examples.pc /home/student/catkin_ws/devel/lib/pkgconfig/tuos_examples.pc
+/home/student/catkin_ws/devel/.private/tuos_examples/share/tuos_examples/cmake/tuos_examplesConfig.cmake /home/student/catkin_ws/devel/share/tuos_examples/cmake/tuos_examplesConfig.cmake
+/home/student/catkin_ws/devel/.private/tuos_examples/share/tuos_examples/cmake/tuos_examplesConfig-version.cmake /home/student/catkin_ws/devel/share/tuos_examples/cmake/tuos_examplesConfig-version.cmake

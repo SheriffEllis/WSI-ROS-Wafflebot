@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="week2_navigation" type="odom_subscriber.py" name="odom_node" output="screen">
+  </node>
+  <node pkg="week2_navigation" type="move_square.py" name="move_node" output="screen">
+  </node>  
+</launch>

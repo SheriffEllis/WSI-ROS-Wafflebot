@@ -1,0 +1,2 @@
+tuos_ros/tuos_ros
+/home/student/catkin_ws/devel/.private/tuos_ros/cmake.lock /home/student/catkin_ws/devel/./cmake.lock

@@ -1,0 +1,5 @@
+week1_pubsub
+/home/student/catkin_ws/devel/.private/week1_pubsub/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/week1_pubsub/lib/pkgconfig/week1_pubsub.pc /home/student/catkin_ws/devel/lib/pkgconfig/week1_pubsub.pc
+/home/student/catkin_ws/devel/.private/week1_pubsub/share/week1_pubsub/cmake/week1_pubsubConfig-version.cmake /home/student/catkin_ws/devel/share/week1_pubsub/cmake/week1_pubsubConfig-version.cmake
+/home/student/catkin_ws/devel/.private/week1_pubsub/share/week1_pubsub/cmake/week1_pubsubConfig.cmake /home/student/catkin_ws/devel/share/week1_pubsub/cmake/week1_pubsubConfig.cmake

@@ -1,0 +1,5 @@
+tuos_ros/tuos_tb3_tools
+/home/student/catkin_ws/devel/.private/tuos_tb3_tools/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/tuos_tb3_tools/lib/pkgconfig/tuos_tb3_tools.pc /home/student/catkin_ws/devel/lib/pkgconfig/tuos_tb3_tools.pc
+/home/student/catkin_ws/devel/.private/tuos_tb3_tools/share/tuos_tb3_tools/cmake/tuos_tb3_toolsConfig.cmake /home/student/catkin_ws/devel/share/tuos_tb3_tools/cmake/tuos_tb3_toolsConfig.cmake
+/home/student/catkin_ws/devel/.private/tuos_tb3_tools/share/tuos_tb3_tools/cmake/tuos_tb3_toolsConfig-version.cmake /home/student/catkin_ws/devel/share/tuos_tb3_tools/cmake/tuos_tb3_toolsConfig-version.cmake

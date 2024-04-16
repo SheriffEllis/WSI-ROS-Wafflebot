@@ -1,0 +1,5 @@
+week4_services
+/home/student/catkin_ws/devel/.private/week4_services/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/week4_services/lib/pkgconfig/week4_services.pc /home/student/catkin_ws/devel/lib/pkgconfig/week4_services.pc
+/home/student/catkin_ws/devel/.private/week4_services/share/week4_services/cmake/week4_servicesConfig-version.cmake /home/student/catkin_ws/devel/share/week4_services/cmake/week4_servicesConfig-version.cmake
+/home/student/catkin_ws/devel/.private/week4_services/share/week4_services/cmake/week4_servicesConfig.cmake /home/student/catkin_ws/devel/share/week4_services/cmake/week4_servicesConfig.cmake

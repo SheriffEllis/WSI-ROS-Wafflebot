@@ -1,0 +1,5 @@
+week2_navigation
+/home/student/catkin_ws/devel/.private/week2_navigation/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/week2_navigation/lib/pkgconfig/week2_navigation.pc /home/student/catkin_ws/devel/lib/pkgconfig/week2_navigation.pc
+/home/student/catkin_ws/devel/.private/week2_navigation/share/week2_navigation/cmake/week2_navigationConfig-version.cmake /home/student/catkin_ws/devel/share/week2_navigation/cmake/week2_navigationConfig-version.cmake
+/home/student/catkin_ws/devel/.private/week2_navigation/share/week2_navigation/cmake/week2_navigationConfig.cmake /home/student/catkin_ws/devel/share/week2_navigation/cmake/week2_navigationConfig.cmake

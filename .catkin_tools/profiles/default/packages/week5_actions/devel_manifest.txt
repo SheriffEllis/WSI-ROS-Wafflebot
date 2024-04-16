@@ -1,0 +1,5 @@
+week5_actions
+/home/student/catkin_ws/devel/.private/week5_actions/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/week5_actions/lib/pkgconfig/week5_actions.pc /home/student/catkin_ws/devel/lib/pkgconfig/week5_actions.pc
+/home/student/catkin_ws/devel/.private/week5_actions/share/week5_actions/cmake/week5_actionsConfig.cmake /home/student/catkin_ws/devel/share/week5_actions/cmake/week5_actionsConfig.cmake
+/home/student/catkin_ws/devel/.private/week5_actions/share/week5_actions/cmake/week5_actionsConfig-version.cmake /home/student/catkin_ws/devel/share/week5_actions/cmake/week5_actionsConfig-version.cmake
