@@ -1,0 +1,5 @@
+wall_hugger
+/home/student/catkin_ws/devel/.private/wall_hugger/cmake.lock /home/student/catkin_ws/devel/./cmake.lock
+/home/student/catkin_ws/devel/.private/wall_hugger/share/wall_hugger/cmake/wall_huggerConfig.cmake /home/student/catkin_ws/devel/share/wall_hugger/cmake/wall_huggerConfig.cmake
+/home/student/catkin_ws/devel/.private/wall_hugger/share/wall_hugger/cmake/wall_huggerConfig-version.cmake /home/student/catkin_ws/devel/share/wall_hugger/cmake/wall_huggerConfig-version.cmake
+/home/student/catkin_ws/devel/.private/wall_hugger/lib/pkgconfig/wall_hugger.pc /home/student/catkin_ws/devel/lib/pkgconfig/wall_hugger.pc
